@@ -9,6 +9,7 @@ Conteúdo teórico de HTML e CSS no GitHub - Versão em português.
 
 - **[HTML Introdução](html/html-introducao.md)**
 - **[HTML Básico](html/html-basico.md)**
+- **[Elementos HTML](html/html-elementos.md)**
 
 
 
