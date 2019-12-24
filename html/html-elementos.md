@@ -28,7 +28,7 @@ Este exemplo contém quatro elementos HTML:
 Exemplo
 
 
->```html
+```html
 <!DOCTYPE html>
 <html>
 <body>
