@@ -8,3 +8,13 @@ Conteúdo teórico de HTML e CSS no GitHub - Versão em português.
 ## Conteúdo HTML
 
 - **[HTML Introdução](html/html-introducao.md)**
+- **[HTML Básico](html/html-basico.md)**
+
+
+
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>
