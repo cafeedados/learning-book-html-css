@@ -51,3 +51,10 @@ Tags HTML são nomes de elementos entre colchetes:
 
 **Dica:** a tag inicial também é chamada de **tag de abertura** e a tag final, a tag de **fechamento**
 
+## Navegadores da Web
+
+O objetivo de um navegador da web (Chrome, Edge, Firefox, Safari) é ler documentos HTML e exibi-los.
+
+O navegador não exibe as tags HTML, mas as utiliza para determinar como exibir o documento:
+
+![Navegador](img/img_chrome.png)
