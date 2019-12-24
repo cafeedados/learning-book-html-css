@@ -45,6 +45,9 @@ Tags HTML são nomes de elementos entre colchetes:
 
 ```o conteúdo da <tagname> entra aqui ... </tagname>```
 
-- As tags HTML normalmente vêm *em pares* como ```<p>e</p>```
-- A primeira tag em um par é a *tag inicial,* a segunda tag é a *tag final*
-- A tag final é escrita como a tag inicial, mas com uma *barra* inserida antes do nome da tag
+- As tags HTML normalmente vêm **em pares** como ```<p>e</p>```
+- A primeira tag em um par é a **tag inicial,** a segunda tag é a **tag final***
+- A tag final é escrita como a tag inicial, mas com uma **barra** inserida antes do nome da tag
+
+**Dica:** a tag inicial também é chamada de **tag de abertura** e a tag final, a tag de **fechamento**
+
