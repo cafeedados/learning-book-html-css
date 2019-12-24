@@ -64,3 +64,37 @@ O navegador não exibe as tags HTML, mas as utiliza para determinar como exibir 
 Abaixo está uma visualização de uma estrutura de página HTML:
 
 ![Estrutura](img/img_estrutura.png)
+
+**Nota:** Somente o conteúdo dentro da seção **```<body>```** (a área branca acima) é exibido em um navegador.
+
+## A declaração <! DOCTYPE>
+
+A ```<!DOCTYPE>``` declaração representa o tipo de documento e ajuda os navegadores a exibir páginas da web corretamente.
+
+Ele deve aparecer apenas uma vez, na parte superior da página (antes de qualquer tag HTML).
+
+A ```<!DOCTYPE>``` declaração não diferencia maiúsculas de minúsculas.
+
+A ```<!DOCTYPE>``` declaração para HTML5 é:
+
+ ```html
+ <!DOCTYPE html>
+ ```
+ ## Versões HTML
+
+ Desde os primeiros dias da web, existem muitas versões do HTML
+
+Versão      | Ano
+----------- | ------:
+HTML        | 1991
+HTML 2.0    | 1995
+HTML 3.2    | 1997
+HTML 4.01   | 1999
+XHTML       | 2000
+HTML5       | 2014
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>
