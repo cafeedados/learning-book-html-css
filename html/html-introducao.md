@@ -58,3 +58,9 @@ O objetivo de um navegador da web (Chrome, Edge, Firefox, Safari) é ler documen
 O navegador não exibe as tags HTML, mas as utiliza para determinar como exibir o documento:
 
 ![Navegador](img/img_chrome.png)
+
+## Estrutura da página HTML
+
+Abaixo está uma visualização de uma estrutura de página HTML:
+
+![Estrutura](img/img_estrutura.png)
