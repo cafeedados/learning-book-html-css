@@ -83,9 +83,9 @@ Exemplo
 ```
 TAG                            | Descrição   
 ------------------------------ | ------------------------------------------------------------------------------------------------------------:
- ```<html>```                  |  Define a raiz de um documento HTML       
+```<html>```                   |  Define a raiz de um documento HTML       
 ```<body>```                   |  Define o corpo do documento       
-```<head>```                   |  Um contêiner para todos os elementos principais (título, scripts, estilos, meta informações e muito mais)      ```<h1> até <h6>```            |  Define cabeçalhos HTML
+```<head>```                   |  Um contêiner para todos os elementos principais (título, scripts, estilos, meta informações e muito mais)      ```<h1>```   até ```  <h6>```  |  Define cabeçalhos HTML
  ```<hr>```                    |  Define uma  linha no conteúdo  
 
 
