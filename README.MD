@@ -2,6 +2,7 @@
 
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+![Instagram](https://img.shields.io/badge/Instagram-%40devpedrolourenco-orange)
 
 Conteúdo teórico de HTML e CSS no GitHub - Versão em português.
 
